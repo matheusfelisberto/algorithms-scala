@@ -9,3 +9,7 @@ Classic algorithms implemented in Scala
 - [ ] Quick Sort
 - [ ] Recursive Insertion Sort
 - [ ] Selection Sort
+
+## Search
+- [ ] Binary Search
+- [ ] Linear Search
