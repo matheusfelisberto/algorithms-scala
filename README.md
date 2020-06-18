@@ -3,7 +3,7 @@ Classic algorithms implemented in Scala
 
 ## Sort
 - [x] Bubble Sort
-- [ ] Heap Sort
+- [x] Heap Sort
 - [ ] Insertion Sort
 - [ ] Merge Sort
 - [ ] Quick Sort
